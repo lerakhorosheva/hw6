@@ -10,6 +10,8 @@
 ЧАСТЬ 2
 1. ![](https://github.com/lerakhorosheva/hw6/blob/master/4.jpg)
 2. ![](https://github.com/lerakhorosheva/hw6/blob/master/5.png)
+
 Оба глагола (**see** и **watch**) могут употребляться с дополнением **people**, **man** и др.
-**Television, tv** и **telly** употребляются только с галголом **watch**, 
+**Television, tv** и **telly** употребляются только с галголом **watch**.
+
 **Page, chapter, reason** употребляются только с глаголом **see**. 
